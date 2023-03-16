@@ -1,2 +1,2 @@
-emojis: <3 :) :( :D B)
->:(
+mood de hoy :/
+mmod del commit: :)
